@@ -1,0 +1,75 @@
+.body{
+    background-color: black;
+    width: 100%;
+    height: 10000px;
+}
+
+
+
+.data1{
+    display: flex;
+    justify-content: center;
+}
+
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.items{
+    
+    display: flex;
+    justify-content: center;
+
+
+    
+    
+}
+#delete{
+    height: 20px;
+    position: relative;
+    top: 38px;
+    left: 10px;
+    background-color: red;
+    border-radius: 10px;
+}
+#edit{
+    height: 20px;
+    position: relative;
+    top: 38px;
+    left: 20px;
+    background-color: green;
+    border-radius: 10px;
+
+}
+.body h1{
+    color: white;
+}
+.items2{
+    display: flex;
+    justify-content: center;
+   position: relative;
+   top: 20px;
+}
+.centre{
+    border: solid 2px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    
+}
+.items h1{
+    color: white;
+}
+#add{
+    background-color: blue;
+    border-radius: 20px;
+}
+#input{
+ width: 200px;
+ height: 20px;
+}
+#update{
+    background-color: brown;
+}
